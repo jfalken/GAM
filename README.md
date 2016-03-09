@@ -2,6 +2,12 @@ GAM
 ============================
 GAM is a command line tool for Google Apps Administrators to manage domain and user settings quickly and easily.
 
+Why this Fork?
+==============
+
+See https://github.com/jay0lee/GAM/pull/141
+( I believe this is fixed in the main branch now, thus making this fork unnecessary ) 
+
 Downloads
 ---------
 You can download the current GAM release from the [GitHub Releases] page.
